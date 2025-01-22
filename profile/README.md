@@ -7,8 +7,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/Almaze-Labs?style=for-the-badge)](https://github.com/almazelabs)
 [![GitHub Followers](https://img.shields.io/github/followers/Almaze-Labs?style=for-the-badge)](https://github.com/almazelabs)
-[![Discord](https://img.shields.io/discord/XXXXXX?style=for-the-badge&logo=discord)](https://discord.gg/almazelabs)
-[![Twitter Follow](https://img.shields.io/twitter/follow/almazelabs?style=for-the-badge)](https://twitter.com/almazelabs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/almazelabs?style=for-the-badge)](https://x.com/almaze_ai)
 
 ---
 
@@ -70,28 +69,9 @@ const techStack = {
 
 ## 🌱 Community & Resources
 
-- 📚 [Documentation](https://docs.almazelabs.com)
-- 💡 [Blog](https://blog.almazelabs.com)
-- 🎓 [Tutorials](https://learn.almazelabs.com)
-- 🤝 [Community Forum](https://community.almazelabs.com)
-- 📺 [YouTube Channel](https://youtube.com/almazelabs)
-
-## 🎯 Recent Achievements
-
-```ascii
-2024 Q1: 🏆 Launch of ALMAZE Enterprise
-2023 Q4: 🌟 10,000+ Problem Solutions Delivered
-2023 Q3: 🚀 Series A Funding Secured
-2023 Q2: 💫 Open Source Framework Release
-```
-
-## 🤝 Join Our Journey
-
-- 🌐 [Website](https://almazelabs.com)
-- 💼 [LinkedIn](https://linkedin.com/company/almazelabs)
-- 🐦 [Twitter](https://twitter.com/almazelabs)
-- 💌 [Contact Us](mailto:hello@almazelabs.com)
-- 🎮 [Discord Community](https://discord.gg/almazelabs)
+- 📚 [Documentation](https://kevinhumala012s-organization.gitbook.io/almaze/~/changes/gfgZ00e7OiDnTUY4LlJU)
+- 🌍 [Website](https://almaze.ai/)
+- 🐦 [Twitter](https://x.com/almaze_ai)
 
 ---
 
